@@ -60,7 +60,6 @@
 </p>
 
 <hr />
-<br />
 
 <h3 align="left">My Top Blog Posts:</h3>
 <div>
@@ -68,9 +67,3 @@
 		<img src="article-1.svg" alt="Availability, Resiliency, and Retry Storms" />
 	</a>
 </div>
-
-<br />
-<hr />
-<br />
-
-<img src="https://readme-jokes.vercel.app/api?textColor=%23fff&aColor=%23fff&bgColor=%23000&borderColor=%23fff" alt="Jokes Card" />
