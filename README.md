@@ -1,5 +1,4 @@
 <h3>Hey, there! 👋</h3>
-<br />
 <h3>I'm a developer, entrepreneur, and public speaker. I love learning new things, and I try share them on my blog &amp; twitter.</h3>
 <br />
 
@@ -21,9 +20,7 @@
 	</a>
 </p>
 
-<br />
 <hr />
-<br />
 
 <h3 align="left">My Top Languages and Tools:</h3>
 <p align="left">
@@ -62,7 +59,6 @@
 	</a>
 </p>
 
-<br />
 <hr />
 <br />
 
