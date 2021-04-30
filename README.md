@@ -3,20 +3,20 @@
 <br />
 
 <p>
-	<a href="https://twitter.com/karimsanet" target="blank">
-		<img src="https://img.shields.io/badge/-Blog-282c35?logo=ghost&style=for-the-badge" alt="LinkedIn" />
+	<a href="https://www.alibhai.co">
+		<img src="https://img.shields.io/badge/-Blog-282c35?logo=ghost&style=for-the-badge" alt="Blog" />
 	</a>
-	<a href="https://github.com/karimsa" target="blank">
-		<img src="https://img.shields.io/badge/-GitHub-blue?logo=github&style=for-the-badge&color=%23000" alt="karimsa" />
-	</a>
-	<a href="https://linkedin.com/in/karimalibhai" target="blank">
+	<!-- <a href="https://github.com/karimsa">
+		<img src="https://img.shields.io/badge/-GitHub-blue?logo=github&style=for-the-badge&color=%23000" alt="GitHub" />
+	</a> -->
+	<a href="https://linkedin.com/in/karimalibhai">
 		<img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
 	</a>
-	<a href="https://twitter.com/karimsanet" target="blank">
-		<img src="https://img.shields.io/badge/-Twitter-9cf?logo=twitter&style=for-the-badge" alt="LinkedIn" />
+	<a href="https://twitter.com/karimsanet">
+		<img src="https://img.shields.io/badge/-Twitter-9cf?logo=twitter&style=for-the-badge" alt="Twitter" />
 	</a>
-	<a href="mailto:karim@alibhai.co" target="blank">
-		<img src="https://img.shields.io/badge/-karim@alibhai.co-blueviolet?logo=mail.ru&style=for-the-badge" alt="LinkedIn" />
+	<a href="mailto:karim@alibhai.co">
+		<img src="https://img.shields.io/badge/-karim@alibhai.co-blueviolet?logo=mail.ru&style=for-the-badge" alt="Email" />
 	</a>
 </p>
 
