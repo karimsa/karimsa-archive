@@ -6,9 +6,6 @@
 	<a href="https://www.alibhai.co">
 		<img src="https://img.shields.io/badge/-Blog-282c35?logo=ghost&style=for-the-badge" alt="Blog" />
 	</a>
-	<!-- <a href="https://github.com/karimsa">
-		<img src="https://img.shields.io/badge/-GitHub-blue?logo=github&style=for-the-badge&color=%23000" alt="GitHub" />
-	</a> -->
 	<a href="https://linkedin.com/in/karimalibhai">
 		<img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
 	</a>
@@ -19,6 +16,8 @@
 		<img src="https://img.shields.io/badge/-karim@alibhai.co-blueviolet?logo=mail.ru&style=for-the-badge" alt="Email" />
 	</a>
 </p>
+
+<img src="https://gpvc.arturio.dev/karimsa" alt="Profile views" />
 
 <hr />
 
@@ -63,6 +62,9 @@
 
 <h3 align="left">My Top Blog Posts:</h3>
 <div>
+	<a href="https://medium.com/dandy-engineering-blog/running-a-homegrown-data-center-a6c3855235a">
+		<img src="article-2.svg" alt="Running a homegrown datacenter" />
+	</a>
 	<a href="https://www.alibhai.co/availability-resiliency-and-retry-storms/">
 		<img src="article-1.svg" alt="Availability, Resiliency, and Retry Storms" />
 	</a>
