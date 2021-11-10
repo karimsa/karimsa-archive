@@ -1,5 +1,5 @@
 <h3>Hey, there! 👋</h3>
-<h3>I'm a developer, entrepreneur, and public speaker. I love learning new things, and I try share them on my blog &amp; twitter.</h3>
+<h3>I'm a developer, entrepreneur, and public speaker. I love learning new things, and I try to share them on my blog &amp; twitter.</h3>
 <br />
 
 <p>
